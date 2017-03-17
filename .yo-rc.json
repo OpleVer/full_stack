@@ -1,0 +1,19 @@
+{
+  "generator-ng-fullstack": {
+    "appName": "test",
+    "username": "dayao",
+    "userEmail": "user.email@example.com",
+    "stack": "fullstack",
+    "repoHostUrl": "github.com",
+    "userNameSpace": "dayao",
+    "client": "ng1",
+    "stylePreprocessor": "none",
+    "server": "node",
+    "nodeWebFrameworkServer": "express",
+    "transpilerServer": "node",
+    "secure": true,
+    "testsSeparated": false,
+    "differentStaticServer": false,
+    "boilerplate": true
+  }
+}
